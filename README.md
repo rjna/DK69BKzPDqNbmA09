@@ -16,3 +16,9 @@ pip install -U pip
 
 Install the requirements (make sure you are the the root of the project, where you can see the requirements.txt):
 pip install -r requirements.txt
+
+Open jupyter notebook by running:
+jupyter notebook
+
+(if you have problems seeing the notebook, use sudo jupyter notebook --allow-root)
+
